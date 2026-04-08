@@ -1,7 +1,7 @@
 site_name: VB-PUO Standard Documentation
 site_description: Functional and technical documentation for the data exchange standard.
 site_author: SIVI_r
-site_url: https://dma61.github.io/VBPUOdsk-docs/
+site_url: https://stichting-sivi.github.io/VBPUOdsk-docs-migratietest/
 theme:
   name: material
   features:
@@ -28,3 +28,4 @@ nav:
   - 'Chapter 5: Data Standard Setup': 'chapter-5-data-standard-setup.md'
   - 'Chapter 6: Functional Specifications': 'chapter-6-functional-specs.md'
   - 'Chapter 7: Technical Specifications': 'chapter-7-tech-specs.md'
+
